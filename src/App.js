@@ -140,11 +140,11 @@ function App() {
       <footer>
         <p>© 2025 Albert Muchai Gachuki</p>
         <div className="social-links">
-          <a href="https://www.linkedin.com/in/your-linkedin" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/Albert Muchai" target="_blank" rel="noopener noreferrer">
             LinkedIn
           </a>
           {' | '}
-          <a href="https://github.com/your-github" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/Muchai03" target="_blank" rel="noopener noreferrer">
             GitHub
           </a>
         </div>
