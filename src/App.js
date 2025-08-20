@@ -73,8 +73,9 @@ function App() {
               </ul>
 
               <a 
-                href="/Albert_Muchai_CV.pdf" 
-                download 
+                href="https://drive.google.com/uc?export=download&id=1OSZbzTyZsDcM2DFpvJbAn2XixFlR-X4W" 
+                target="_blank" 
+                rel="noopener noreferrer" 
                 className="cv-button"
               >
                 Download CV
